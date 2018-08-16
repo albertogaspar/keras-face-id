@@ -1,0 +1,3 @@
+IMG_SIZE = 224
+N_CHANNELS = 3
+DATA_PATH = './data/'
